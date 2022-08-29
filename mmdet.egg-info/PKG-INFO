@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: mmdet
+Version: 2.19.0
+Summary: OpenMMLab Detection Toolbox and Benchmark
+Home-page: https://github.com/open-mmlab/mmdetection
+Author: MMDetection Contributors
+Author-email: openmmlab@gmail.com
+License: Apache License 2.0
+Description: # mmdetection_SSPNet&TOV
+        
+        Fusión del framework creado para el concurso de Tiny Object Detection y la implementación de SSPNet
+        
+        ## Referencias
+        [1] Hong, Mingbo, et al. "Scale Selection Pyramid Network for Tiny Person Detection From UAV Images." IEEE Geoscience and Remote Sensing Letters. 2021.
+        
+        [2] Chen, Kai, et al. "MMDetection: Open mmlab detection toolbox and benchmark." arXiv preprint arXiv:1906.07155 (2019).  
+        
+        [3] Yu, Xuehui, et al. "Scale match for tiny person detection." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.
+        
+        [4] Yu, Xuehui, et al. "The 1st Tiny Object Detection Challenge: Methods and Results." arXiv preprint arXiv:2009.07506 (2020).
+Keywords: computer vision,object detection
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Provides-Extra: all
+Provides-Extra: build
+Provides-Extra: optional
+Provides-Extra: tests
